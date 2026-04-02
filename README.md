@@ -17,6 +17,7 @@ I am a passionate **B.Tech Computer Science student (1st Year, 2nd Semester)** a
 ### 🤝 Let's Connect!
 I am always open to collaborating on innovative projects or discussing new tech trends.
 
+* **LeetCode:** [Anshika Agarwal](https://leetcode.com/u/AnshikaAgarwal123/)
 * **LinkedIn:** [Anshika Agarwal](https://www.linkedin.com/in/anshika-agarwal-86340b37b) 
 * **Portfolio:** [Check out my Java Practice Repo!](https://github.com/AnshikaAgarwal123/Java-Practice)
 
